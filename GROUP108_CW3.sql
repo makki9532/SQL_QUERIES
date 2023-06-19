@@ -1,6 +1,4 @@
 -- Author: AL-NOORNABI AL-QAUSAYEN AL-MAKKI
--- STUDENT_ID : 200501192
--- GROUP 108
 -- Script file was written in mysql server version 5.7
 -- Relational Schema Investment:
 
